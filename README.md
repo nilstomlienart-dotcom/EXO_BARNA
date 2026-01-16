@@ -3,3 +3,5 @@
 
 print("bien_ou_bien")
 print("jecomprendspascequifautfaire")
+!help
+
